@@ -1,2 +1,2 @@
-# XAI
-A Simple Software To Train, Test, Use AI With Audio In Arduino, And A Export That Can Export The Code Arduino Extracted.
+# AIT
+A Simple Software To Train, Test, Use AI With Audio,That Can Export The Model In pkl That Is Extracted.
